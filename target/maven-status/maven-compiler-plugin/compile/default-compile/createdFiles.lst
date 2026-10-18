@@ -1,0 +1,7 @@
+Views\inisiosesion.class
+Views\MiPerfil.class
+Views\PanelPrincipal.class
+com\mycompany\helpdesk\Helpdesk.class
+Views\MisTickets.class
+Views\Reportes.class
+Views\CrearTickets.class
